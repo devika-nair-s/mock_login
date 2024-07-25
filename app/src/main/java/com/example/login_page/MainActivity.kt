@@ -6,6 +6,7 @@ import android.util.Log
 import android.widget.Button
 import android.widget.EditText
 
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var usernameInput: EditText
